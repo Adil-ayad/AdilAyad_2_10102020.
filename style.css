@@ -2,7 +2,7 @@ body {
   font-family: "Raleway", sans-serif;
   margin: 0;
 }
-
+/*Les éléments mis en gras*/
 .gras {
   font-weight: bold;
 }
@@ -31,7 +31,7 @@ header {
   height: 40px;
   padding-top: 2.3em;
 }
-
+/*Eléments liste #barre*/
 .one {
   padding: 0em 2em 0em 1em;
   margin: 1em 0em 0em 0em;
@@ -40,7 +40,7 @@ header {
 .blue {
   color: #0065fc;
 }
-
+/*Hébergements */
 a span.blue {
   border-top: #0065fc solid 2px;
   padding: 2.5em 1em 0 1em;
@@ -68,7 +68,7 @@ input {
   border-style: none;
   border: solid 1px #f2f2f2;
 }
-
+/* Texte navbar*/
 ::placeholder {
   font-weight: bold;
   color: black;
@@ -99,7 +99,7 @@ button {
 #nav h4 {
   margin: 0;
 }
-
+/*Filtre */
 #space {
   padding-top: 0.8em;
   width: 5%;
